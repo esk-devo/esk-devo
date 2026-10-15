@@ -19,7 +19,7 @@ Frontend developer from Alexandria, Egypt, turning ideas into fast, accessible a
 
 ---
 
-## `01 / About`
+## ` / About`
 
 I'm a frontend developer who builds fast, accessible and polished interfaces. I built the **PixNoise** company website end to end: React UI, a Node.js API, SEO and production deployment.
 
@@ -31,7 +31,7 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## `02 / Tech Stack`
+## ` / Tech Stack`
 
 **Frontend**
 
@@ -71,32 +71,11 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## `03 / Selected Work`
-
-**[PixNoise Company Website](https://pixnoise.com)** · *Live*
-React and Vite frontend with a custom Node.js/Express API, automated contact-form emails, SEO, accessibility and production deployment.
-`React` `Vite` `Tailwind CSS` `Framer Motion` `Node.js` `Express` `Nodemailer`
-
-**[Metalist Group Store](https://metalistgroup.com)** · *Live*
-WooCommerce platform with ~300 products, custom product templates with dynamic color and variation selectors, plus performance and SEO optimization.
-`WordPress` `WooCommerce` `PHP` `ACF` `Elementor`
-
-**[Smartpix](https://www.smartpixeg.com/)** · *Live*
-Website for a smart-home technology company presenting its product series and online store.
-
-**[Krass Pro](https://krasspro.com/)** · *Live*
-Responsive marketing landing page built from scratch with AI-assisted prompt engineering.
-`HTML` `CSS` `JavaScript`
-
-**[Krass Online Education](https://krasseducation.com/en)** · *Live · Team project*
-Online education website developed together with a team.
-`Next.js` `Tailwind CSS` `Node.js` `Express`
-
 <sub>More on the <a href="https://eskdev.vercel.app/#projects">portfolio</a>.</sub>
 
 ---
 
-## `04 / GitHub Stats`
+## `/ GitHub Stats`
 
 <div align="center">
 
@@ -109,7 +88,7 @@ Online education website developed together with a team.
 
 ---
 
-## `05 / Connect`
+## ` / Connect`
 
 <div align="center">
 
