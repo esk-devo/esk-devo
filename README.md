@@ -19,7 +19,7 @@ Frontend developer from Alexandria, Egypt, turning ideas into fast, accessible a
 
 ---
 
-## ` / About`
+## ` About`
 
 I'm a frontend developer who builds fast, accessible and polished interfaces. I built the **PixNoise** company website end to end: React UI, a Node.js API, SEO and production deployment.
 
@@ -31,7 +31,7 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## ` / Tech Stack`
+## `Tech Stack`
 
 **Frontend**
 
@@ -75,7 +75,7 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## `/ GitHub Stats`
+## ` GitHub Stats`
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## ` / Connect`
+## ` Connect`
 
 <div align="center">
 
