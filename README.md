@@ -12,14 +12,14 @@ Frontend developer from Alexandria, Egypt, turning ideas into fast, accessible a
   <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-D90F21?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mohammed-elsaka/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
 </a>
 
 </div>
 
 ---
 
-## ` About`
+## About
 
 I'm a frontend developer who builds fast, accessible and polished interfaces. I built the **PixNoise** company website end to end: React UI, a Node.js API, SEO and production deployment.
 
@@ -31,7 +31,7 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## `Tech Stack`
+## Tech Stack
 
 **Frontend**
 
@@ -75,25 +75,23 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-## ` GitHub Stats`
+## GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=esk-devo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=D90F21&icon_color=D90F21&text_color=C9C9C9" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esk-devo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D90F21&text_color=C9C9C9" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=esk-devo&hide_border=true&background=0A0A0A&ring=D90F21&fire=D90F21&currStreakLabel=D90F21&currStreakNum=C9C9C9&sideNums=C9C9C9&sideLabels=C9C9C9&dates=8A8A8A" alt="GitHub Streak" />
-
 </div>
 
 ---
 
-## ` Connect`
+## Connect
 
 <div align="center">
 
 <a href="https://eskdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D90F21?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mohammed-elsaka/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mohammed-elsaka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
 <a href="https://github.com/esk-devo"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
