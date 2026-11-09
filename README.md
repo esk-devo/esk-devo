@@ -77,10 +77,12 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=esk-devo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=D90F21&icon_color=D90F21&text_color=C9C9C9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esk-devo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D90F21&text_color=C9C9C9" alt="Top Languages" />
+<img height="180" src="https://raw.githubusercontent.com/esk-devo/esk-devo/main/profile-summary-card-output/dark/3-stats.svg" alt="GitHub Stats" />
+<img height="180" src="https://raw.githubusercontent.com/esk-devo/esk-devo/main/profile-summary-card-output/dark/1-repos-per-language.svg" alt="Top Languages" />
 
 </div>
 
