@@ -28,7 +28,22 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 - 📍 Alexandria, Egypt
 - 🎓 B.Sc. Computer Science, AAST
 - 🌐 Arabic, English
+## Connect
 
+<div align="center">
+
+<p>Want to work together or have a question? Feel free to reach out by email 📩</p>
+
+<a href="mailto:elsaka0226@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://eskdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D90F21?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohammed-elsaka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+<a href="https://github.com/esk-devo"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<sub>Open to Frontend Developer opportunities · Built with care in Alexandria</sub>
+
+</div>
 ---
 
 ## Tech Stack
