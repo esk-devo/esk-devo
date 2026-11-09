@@ -77,8 +77,6 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <div align="center">
 
 <img height="180" src="https://raw.githubusercontent.com/esk-devo/esk-devo/main/profile-summary-card-output/dark/3-stats.svg" alt="GitHub Stats" />
