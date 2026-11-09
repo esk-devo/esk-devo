@@ -71,10 +71,6 @@ Before that, I customized a **WooCommerce** store with around 300 products. My b
 
 ---
 
-<sub>More on the <a href="https://eskdev.vercel.app/#projects">portfolio</a>.</sub>
-
----
-
 ## GitHub Stats
 
 <div align="center">
